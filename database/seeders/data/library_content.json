@@ -1,0 +1,831 @@
+{
+    "books": [
+        {
+            "title": "1984",
+            "author": "George Orwell",
+            "isbn": null,
+            "publisher": "Secker & Warburg",
+            "publication_year": 1949,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Fiction",
+            "call_number": "FIC-002",
+            "collection_type": "Fiction",
+            "description": "1984 by George Orwell.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000002",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "A Brief History of Time",
+            "author": "Stephen Hawking",
+            "isbn": null,
+            "publisher": "Bantam Books",
+            "publication_year": 1988,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Science",
+            "call_number": "GEN-019",
+            "collection_type": "General",
+            "description": "A Brief History of Time by Stephen Hawking.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000019",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "Animal Farm",
+            "author": "George Orwell",
+            "isbn": null,
+            "publisher": "Secker & Warburg",
+            "publication_year": 1945,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Fiction",
+            "call_number": "FIC-015",
+            "collection_type": "Fiction",
+            "description": "Animal Farm by George Orwell.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000015",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "isbn": null,
+            "publisher": "Chatto & Windus",
+            "publication_year": 1932,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Science Fiction",
+            "call_number": "GEN-016",
+            "collection_type": "General",
+            "description": "Brave New World by Aldous Huxley.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000016",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+            "author": "Robert C. Martin",
+            "isbn": null,
+            "publisher": "Prentice Hall",
+            "publication_year": 2008,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Computer Science",
+            "call_number": "GEN-023",
+            "collection_type": "General",
+            "description": "Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000023",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J. K. Rowling",
+            "isbn": null,
+            "publisher": "Bloomsbury",
+            "publication_year": 1997,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Fantasy",
+            "call_number": "GEN-008",
+            "collection_type": "General",
+            "description": "Harry Potter and the Sorcerer's Stone by J. K. Rowling.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000008",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "Introduction to Algorithms",
+            "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein",
+            "isbn": null,
+            "publisher": "MIT Press",
+            "publication_year": 1990,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Computer Science",
+            "call_number": "GEN-022",
+            "collection_type": "General",
+            "description": "Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000022",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "isbn": null,
+            "publisher": "T. Egerton",
+            "publication_year": 1813,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Fiction",
+            "call_number": "FIC-003",
+            "collection_type": "Fiction",
+            "description": "Pride and Prejudice by Jane Austen.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000003",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "Sapiens: A Brief History of Humankind",
+            "author": "Yuval Noah Harari",
+            "isbn": null,
+            "publisher": "Harper",
+            "publication_year": 2011,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "History",
+            "call_number": "GEN-018",
+            "collection_type": "General",
+            "description": "Sapiens: A Brief History of Humankind by Yuval Noah Harari.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000018",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "isbn": null,
+            "publisher": "HarperTorch",
+            "publication_year": 1988,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Fiction",
+            "call_number": "FIC-010",
+            "collection_type": "Fiction",
+            "description": "The Alchemist by Paulo Coelho.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000010",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "The Book Thief",
+            "author": "Markus Zusak",
+            "isbn": null,
+            "publisher": "Picador",
+            "publication_year": 2005,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Fiction",
+            "call_number": "FIC-011",
+            "collection_type": "Fiction",
+            "description": "The Book Thief by Markus Zusak.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000011",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "The Catcher in the Rye",
+            "author": "J. D. Salinger",
+            "isbn": null,
+            "publisher": "Little, Brown and Company",
+            "publication_year": 1951,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Fiction",
+            "call_number": "FIC-005",
+            "collection_type": "Fiction",
+            "description": "The Catcher in the Rye by J. D. Salinger.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000005",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "The Design of Everyday Things",
+            "author": "Don Norman",
+            "isbn": null,
+            "publisher": "Basic Books",
+            "publication_year": 1988,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Design",
+            "call_number": "GEN-025",
+            "collection_type": "General",
+            "description": "The Design of Everyday Things by Don Norman.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000025",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "The Diary of a Young Girl",
+            "author": "Anne Frank",
+            "isbn": null,
+            "publisher": "Contact Publishing",
+            "publication_year": 1947,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Biography",
+            "call_number": "GEN-017",
+            "collection_type": "General",
+            "description": "The Diary of a Young Girl by Anne Frank.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000017",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "The Fault in Our Stars",
+            "author": "John Green",
+            "isbn": null,
+            "publisher": "Dutton Books",
+            "publication_year": 2012,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Fiction",
+            "call_number": "FIC-014",
+            "collection_type": "Fiction",
+            "description": "The Fault in Our Stars by John Green.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000014",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "isbn": null,
+            "publisher": "Charles Scribner's Sons",
+            "publication_year": 1925,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Fiction",
+            "call_number": "FIC-004",
+            "collection_type": "Fiction",
+            "description": "The Great Gatsby by F. Scott Fitzgerald.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000004",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "The Hobbit",
+            "author": "J. R. R. Tolkien",
+            "isbn": null,
+            "publisher": "George Allen & Unwin",
+            "publication_year": 1937,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Fantasy",
+            "call_number": "GEN-006",
+            "collection_type": "General",
+            "description": "The Hobbit by J. R. R. Tolkien.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000006",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "The Hunger Games",
+            "author": "Suzanne Collins",
+            "isbn": null,
+            "publisher": "Scholastic Press",
+            "publication_year": 2008,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Science Fiction",
+            "call_number": "GEN-013",
+            "collection_type": "General",
+            "description": "The Hunger Games by Suzanne Collins.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000013",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "The Kite Runner",
+            "author": "Khaled Hosseini",
+            "isbn": null,
+            "publisher": "Riverhead Books",
+            "publication_year": 2003,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Fiction",
+            "call_number": "FIC-012",
+            "collection_type": "Fiction",
+            "description": "The Kite Runner by Khaled Hosseini.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000012",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "The Little Prince",
+            "author": "Antoine de Saint-Exupery",
+            "isbn": null,
+            "publisher": "Reynal & Hitchcock",
+            "publication_year": 1943,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Fiction",
+            "call_number": "FIC-009",
+            "collection_type": "Fiction",
+            "description": "The Little Prince by Antoine de Saint-Exupery.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000009",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "The Lord of the Rings",
+            "author": "J. R. R. Tolkien",
+            "isbn": null,
+            "publisher": "George Allen & Unwin",
+            "publication_year": 1954,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Fantasy",
+            "call_number": "GEN-007",
+            "collection_type": "General",
+            "description": "The Lord of the Rings by J. R. R. Tolkien.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000007",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "The Origin of Species",
+            "author": "Charles Darwin",
+            "isbn": null,
+            "publisher": "John Murray",
+            "publication_year": 1859,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Science",
+            "call_number": "GEN-021",
+            "collection_type": "General",
+            "description": "The Origin of Species by Charles Darwin.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000021",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "The Pragmatic Programmer",
+            "author": "Andrew Hunt and David Thomas",
+            "isbn": null,
+            "publisher": "Addison-Wesley",
+            "publication_year": 1999,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Computer Science",
+            "call_number": "GEN-024",
+            "collection_type": "General",
+            "description": "The Pragmatic Programmer by Andrew Hunt and David Thomas.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000024",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "The Selfish Gene",
+            "author": "Richard Dawkins",
+            "isbn": null,
+            "publisher": "Oxford University Press",
+            "publication_year": 1976,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Science",
+            "call_number": "GEN-020",
+            "collection_type": "General",
+            "description": "The Selfish Gene by Richard Dawkins.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000020",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "isbn": null,
+            "publisher": "J.B. Lippincott & Co.",
+            "publication_year": 1960,
+            "edition": null,
+            "series": null,
+            "volume": null,
+            "classification": "Fiction",
+            "call_number": "FIC-001",
+            "collection_type": "Fiction",
+            "description": "To Kill a Mockingbird by Harper Lee.",
+            "table_of_contents": null,
+            "cover_url": null,
+            "inside_use_only": false,
+            "copies": [
+                {
+                    "accession_number": "DYCI-000001",
+                    "status": "Available",
+                    "condition": "Good"
+                }
+            ]
+        }
+    ],
+    "research": [
+        {
+            "title": "A Neural Algorithm of Artistic Style",
+            "authors": "Leon A. Gatys, Alexander S. Ecker, Matthias Bethge",
+            "course": "Computer Science",
+            "year": 2015,
+            "abstract": "Shows how convolutional neural network feature representations can separate and recombine image content and artistic style. Open-access source: https://arxiv.org/abs/1508.06576",
+            "file_path": "research/reference-1508.06576.pdf",
+            "public": 1
+        },
+        {
+            "title": "A Survey of Large Language Models",
+            "authors": "Wayne Xin Zhao et al.",
+            "course": "Computer Science",
+            "year": 2023,
+            "abstract": "Surveys large language model development, adaptation, evaluation, applications, and open research challenges. Open-access source: https://arxiv.org/abs/2303.18223",
+            "file_path": "research/reference-2303.18223.pdf",
+            "public": 1
+        },
+        {
+            "title": "Adam: A Method for Stochastic Optimization",
+            "authors": "Diederik P. Kingma, Jimmy Ba",
+            "course": "Computer Science",
+            "year": 2014,
+            "abstract": "Introduces an adaptive first-order optimization method combining estimates of gradient moments for stochastic objective functions. Open-access source: https://arxiv.org/abs/1412.6980",
+            "file_path": "research/reference-1412.6980.pdf",
+            "public": 1
+        },
+        {
+            "title": "Attention Is All You Need",
+            "authors": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin",
+            "course": "Computer Science",
+            "year": 2017,
+            "abstract": "Introduces the Transformer architecture, which uses attention mechanisms instead of recurrent or convolutional sequence processing. The paper evaluates it on machine translation and parsing. Open-access source: https://arxiv.org/abs/1706.03762",
+            "file_path": "research/reference-1706.03762.pdf",
+            "public": 1
+        },
+        {
+            "title": "Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth",
+            "authors": "Yihe Dong, Jean-Baptiste Cordonnier, Andreas Loukas",
+            "course": "Computer Science",
+            "year": 2021,
+            "abstract": "Analyzes rank behavior in pure self-attention networks and studies how skip connections and feed-forward layers affect representation collapse. Open-access source: https://arxiv.org/abs/2103.03404",
+            "file_path": "research/reference-2103.03404.pdf",
+            "public": 1
+        },
+        {
+            "title": "Auto-Encoding Variational Bayes",
+            "authors": "Diederik P. Kingma, Max Welling",
+            "course": "Computer Science",
+            "year": 2013,
+            "abstract": "Develops a variational inference approach that enables scalable learning in directed probabilistic models with continuous latent variables. Open-access source: https://arxiv.org/abs/1312.6114",
+            "file_path": "research/reference-1312.6114.pdf",
+            "public": 1
+        },
+        {
+            "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+            "authors": "Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova",
+            "course": "Computer Science",
+            "year": 2018,
+            "abstract": "Presents BERT, a language representation model pretrained with bidirectional context and adaptable to multiple language understanding tasks. Open-access source: https://arxiv.org/abs/1810.04805",
+            "file_path": "research/reference-1810.04805.pdf",
+            "public": 1
+        },
+        {
+            "title": "Deep Residual Learning for Image Recognition",
+            "authors": "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun",
+            "course": "Computer Science",
+            "year": 2015,
+            "abstract": "Introduces residual connections that make very deep neural networks easier to optimize, with image recognition experiments on ImageNet and CIFAR. Open-access source: https://arxiv.org/abs/1512.03385",
+            "file_path": "research/reference-1512.03385.pdf",
+            "public": 1
+        },
+        {
+            "title": "Denoising Diffusion Probabilistic Models",
+            "authors": "Jonathan Ho, Ajay Jain, Pieter Abbeel",
+            "course": "Computer Science",
+            "year": 2020,
+            "abstract": "Formulates a generative modeling method that learns to reverse a gradual noising process and evaluates generated image quality. Open-access source: https://arxiv.org/abs/2006.11239",
+            "file_path": "research/reference-2006.11239.pdf",
+            "public": 1
+        },
+        {
+            "title": "Efficient Estimation of Word Representations in Vector Space",
+            "authors": "Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean",
+            "course": "Computer Science",
+            "year": 2013,
+            "abstract": "Describes efficient architectures for learning distributed word representations from large text corpora. Open-access source: https://arxiv.org/abs/1301.3781",
+            "file_path": "research/reference-1301.3781.pdf",
+            "public": 1
+        },
+        {
+            "title": "Generative Adversarial Nets",
+            "authors": "Ian J. Goodfellow et al.",
+            "course": "Computer Science",
+            "year": 2014,
+            "abstract": "Introduces an adversarial framework in which generative and discriminative models are trained together to learn a data distribution. Open-access source: https://arxiv.org/abs/1406.2661",
+            "file_path": "research/reference-1406.2661.pdf",
+            "public": 1
+        },
+        {
+            "title": "GloVe: Global Vectors for Word Representation",
+            "authors": "Jeffrey Pennington, Richard Socher, Christopher D. Manning",
+            "course": "Computer Science",
+            "year": 2014,
+            "abstract": "Introduces a word vector model that combines global corpus statistics with local context windows. Open-access source: https://arxiv.org/abs/1405.3092",
+            "file_path": "research/reference-1405.3092.pdf",
+            "public": 1
+        },
+        {
+            "title": "ImageNet Classification with Deep Convolutional Neural Networks",
+            "authors": "Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton",
+            "course": "Computer Science",
+            "year": 2012,
+            "abstract": "Reports a deep convolutional model for large-scale image classification and discusses design choices that improved benchmark performance. Open-access source: https://arxiv.org/abs/1207.0580",
+            "file_path": "research/reference-1207.0580.pdf",
+            "public": 1
+        },
+        {
+            "title": "Language Models are Few-Shot Learners",
+            "authors": "Tom B. Brown et al.",
+            "course": "Computer Science",
+            "year": 2020,
+            "abstract": "Evaluates how scaling autoregressive language models affects zero-shot, one-shot, and few-shot performance across language tasks. Open-access source: https://arxiv.org/abs/2005.14165",
+            "file_path": "research/reference-2005.14165.pdf",
+            "public": 1
+        },
+        {
+            "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+            "authors": "Edward J. Hu et al.",
+            "course": "Computer Science",
+            "year": 2021,
+            "abstract": "Proposes low-rank trainable updates for adapting large pretrained language models while keeping their original weights frozen. Open-access source: https://arxiv.org/abs/2106.09685",
+            "file_path": "research/reference-2106.09685.pdf",
+            "public": 1
+        },
+        {
+            "title": "Neural Architecture Search with Reinforcement Learning",
+            "authors": "Barret Zoph, Quoc V. Le",
+            "course": "Computer Science",
+            "year": 2016,
+            "abstract": "Uses a recurrent controller trained with reinforcement learning to propose neural network architectures for a target task. Open-access source: https://arxiv.org/abs/1611.01578",
+            "file_path": "research/reference-1611.01578.pdf",
+            "public": 1
+        },
+        {
+            "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+            "authors": "Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio",
+            "course": "Computer Science",
+            "year": 2014,
+            "abstract": "Introduces an attention-based translation model that learns to align source words with target words during translation. Open-access source: https://arxiv.org/abs/1409.0473",
+            "file_path": "research/reference-1409.0473.pdf",
+            "public": 1
+        },
+        {
+            "title": "On Calibration of Modern Neural Networks",
+            "authors": "Chuan Guo, Geoff Pleiss, Yu Sun, Kilian Q. Weinberger",
+            "course": "Computer Science",
+            "year": 2017,
+            "abstract": "Studies confidence calibration in modern neural networks and evaluates techniques for improving the match between confidence and accuracy. Open-access source: https://arxiv.org/abs/1706.04599",
+            "file_path": "research/reference-1706.04599.pdf",
+            "public": 1
+        },
+        {
+            "title": "Playing Atari with Deep Reinforcement Learning",
+            "authors": "Volodymyr Mnih et al.",
+            "course": "Computer Science",
+            "year": 2013,
+            "abstract": "Explores deep neural networks that learn control policies from high-dimensional visual input using reinforcement learning. Open-access source: https://arxiv.org/abs/1312.5602",
+            "file_path": "research/reference-1312.5602.pdf",
+            "public": 1
+        },
+        {
+            "title": "Proximal Policy Optimization Algorithms",
+            "authors": "John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov",
+            "course": "Computer Science",
+            "year": 2017,
+            "abstract": "Introduces policy optimization methods that constrain updates to improve the stability and simplicity of reinforcement learning. Open-access source: https://arxiv.org/abs/1707.06347",
+            "file_path": "research/reference-1707.06347.pdf",
+            "public": 1
+        },
+        {
+            "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+            "authors": "Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Kuttler, Mike Lewis, Wen-tau Yih, Tim Rocktaschel, Sebastian Riedel, Douwe Kiela",
+            "course": "Computer Science",
+            "year": 2020,
+            "abstract": "Studies language generation that combines pretrained models with retrieved passages, evaluating the approach on knowledge intensive NLP tasks. Open-access source: https://arxiv.org/abs/2005.11401",
+            "file_path": "research/reference-2005.11401.pdf",
+            "public": 1
+        },
+        {
+            "title": "Sequence to Sequence Learning with Neural Networks",
+            "authors": "Ilya Sutskever, Oriol Vinyals, Quoc V. Le",
+            "course": "Computer Science",
+            "year": 2014,
+            "abstract": "Presents an encoder-decoder neural network approach for mapping input sequences to output sequences, demonstrated on machine translation. Open-access source: https://arxiv.org/abs/1409.3215",
+            "file_path": "research/reference-1409.3215.pdf",
+            "public": 1
+        },
+        {
+            "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+            "authors": "Jonathan Frankle, Michael Carbin",
+            "course": "Computer Science",
+            "year": 2018,
+            "abstract": "Investigates whether dense neural networks contain sparse subnetworks that can train effectively from their original initialization. Open-access source: https://arxiv.org/abs/1803.03635",
+            "file_path": "research/reference-1803.03635.pdf",
+            "public": 1
+        },
+        {
+            "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+            "authors": "Olaf Ronneberger, Philipp Fischer, Thomas Brox",
+            "course": "Computer Science",
+            "year": 2015,
+            "abstract": "Presents a U-shaped convolutional network for biomedical image segmentation, designed to learn from relatively small annotated datasets. Open-access source: https://arxiv.org/abs/1505.04597",
+            "file_path": "research/reference-1505.04597.pdf",
+            "public": 1
+        },
+        {
+            "title": "You Only Look Once: Unified, Real-Time Object Detection",
+            "authors": "Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi",
+            "course": "Computer Science",
+            "year": 2015,
+            "abstract": "Frames object detection as a single regression problem and describes a unified model designed for real-time image processing. Open-access source: https://arxiv.org/abs/1506.02640",
+            "file_path": "research/reference-1506.02640.pdf",
+            "public": 1
+        }
+    ]
+}
